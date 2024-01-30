@@ -1,1 +1,1 @@
-[FBAN/Orca-Android;FBAV/58.0.0.4544;FBBV/4510103;[FBAN/FB4A;FBAV/90.0.0.20.70;FBBV/36474238;FBDM/{density=4.0,width=1200,height=1024};FBLC/en_US;FBRV/299560442;FBCR/Movicel;FBMF/Xiaomi;FBBD/xiaomi;FBPN/com.facebook.katana;FBDV/Redmi Note 7 Pro;FBSV/8.4.2;nullFBCA/armeabi-v7a:armeabi;]
+Dalvik/2.1.0 (Linux; U; Android 8.1.0; CPH1909 Build/O11019) [FBAN/Orca-Android;FBAV/241.0.0.17.116;FBPN/com.facebook.orca;FBLC/th_TH;FBBV/182747440;FBCR/TRUE-H;FBMF/OPPO;FBBD/OPPO;FBDV/CPH1909;FBSV/8.1.0;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=1424,height=720};FB_FW/1;] FBBK/1
