@@ -1,3 +1,3 @@
-Dalvik/2.1.0 (Linux; U; Android 10; Infinix X688B Build/QP1A.190711.020) [FBAN/MessengerLite;FBAV/288.0.0.5.115;FBPN/com.facebook.mlite;FBLC/en_US;FBBV/346850586;FBCR/TNT;FBMF/INFINIX MOBILITY LIMITED;FBBD/Infinix;FBDV/Infinix X688B;FBSV/10;FBCA/arm64-v8a:null;FBDM/{density=2.0,width=720,height=1472};]
-
+Dalvik/2.1.0 (Linux; U; Android 13; Samsung M12 Build/TD1A.625993.014) [FBAN/FB4A;FBAV/263.0.0.54.85;FBBV/322712460;FBRV/0;FBPN/com.facebook.katana;FBLC
+/fr_CA;FBMF/Samsung;FBBD/Samsung;FBDV/Samsung M12;FBSV/13;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
 
