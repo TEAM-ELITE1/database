@@ -1,3 +1,1 @@
-Dalvik/2.1.0 (Linux; U; Android 13; Samsung M12 Build/TD1A.625993.014) [FBAN/FB4A;FBAV/263.0.0.54.85;FBBV/322712460;FBRV/0;FBPN/com.facebook.katana;FBLC
-/fr_CA;FBMF/Samsung;FBBD/Samsung;FBDV/Samsung M12;FBSV/13;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
-
+Dalvik/2.1.0 (Linux; U; Android 13; Samsung M12 Build/TD1A.625993.014) [FBAN/FB4A;FBAV/263.0.0.54.85;FBBV/322712460;FBRV/0;FBPN/com.facebook.katana;FBLC/fr_CA;FBMF/Samsung;FBBD/Samsung;FBDV/Samsung M12;FBSV/13;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
