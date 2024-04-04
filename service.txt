@@ -1,1 +1,1 @@
-Samsung|Oppo|Infinix|Motorola
+Samsung|Oppo|Infinix|Motorola|1.3
