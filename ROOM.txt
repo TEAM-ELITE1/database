@@ -6,5 +6,5 @@
 [FBAN/FB4A;FBAV/256.0.0.39.117;FBBV/196542486;FBDM/{density=1.75,width=720,height=1396};FBLC/ro_RO;FBRV/198377061;FBCR/BASE | Lycamobile;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-J415FN;FBSV/9;FBOP/19;FBCA/armeabi-v7a:armeabi;]
 [FBAN/FB4A;FBAV/256.0.0.39.117;FBBV/196542486;FBDM/{density=1.75,width=720,height=1396};FBLC/ro_RO;FBRV/198377061;FBCR/BASE | Lycamobile;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-J415FN;FBSV/9;FBOP/19;FBCA/armeabi-v7a:armeabi;]
 [FBAN/FB4A;FBAV/76.0.0.24.67;FBBV/29581438;FBDM/{density=1.5,width=540,height=960};FBLC/pt_BR;FBCR/CLARO BR;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G531H;FBSV/5.1.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]
-6.9
+7.0
 single
