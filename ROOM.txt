@@ -1,9 +1,9 @@
 [FBAN/FB4A;FBAV/271.0.0.55.109;FBBV/215365690;FBDM/{density=2.0,width=720,height=1404};FBLC/en_US;FBRV/216513200;FBCR/Telia;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.katana;FBDV/vivo 1906;FBSV/9;FBOP/1;FBCA/arm64-v8a:;]
-[FBAN/FB4A;FBAV/256.0.0.39.117;FBBV/196542486;FBDM/{density=1.75,width=720,height=1396};FBLC/ro_RO;FBRV/198377061;FBCR/BASE | Lycamobile;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-J415FN;FBSV/9;FBOP/19;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/61.0.0.15.69;FBBV/20748051;FBDM/{density=1.5,width=540,height=960};FBLC/en_GB;FBCR/Tesco Mobile;FBMF/TCL;FBBD/TCL;FBPN/com.facebook.katana;FBDV/6016X;FBSV/4.3;nullFBCA/armeabi-v7a:armeabi;]
 [FBAN/FB4A;FBAV/77.0.0.20.66;FBBV/30034615;FBDM/{density=1.5,width=480,height=800};FBLC/en_GB;FBCR/MTML;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-J110H;FBSV/4.4.4;FBOP/1;FBCA/armeabi-v7a:armeabi;]
 [FBAN/FB4A;FBAV/271.0.0.55.109;FBBV/215365690;FBDM/{density=2.0,width=720,height=1404};FBLC/en_US;FBRV/216513200;FBCR/Telia;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.katana;FBDV/vivo 1906;FBSV/9;FBOP/1;FBCA/arm64-v8a:;]
 [FBAN/FB4A;FBAV/271.0.0.55.109;FBBV/215365690;FBDM/{density=2.0,width=720,height=1404};FBLC/en_US;FBRV/216513200;FBCR/Telia;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.katana;FBDV/vivo 1906;FBSV/9;FBOP/1;FBCA/arm64-v8a:;]
-[FBAN/FB4A;FBAV/256.0.0.39.117;FBBV/196542486;FBDM/{density=1.75,width=720,height=1396};FBLC/ro_RO;FBRV/198377061;FBCR/BASE | Lycamobile;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-J415FN;FBSV/9;FBOP/19;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/61.0.0.15.69;FBBV/20748051;FBDM/{density=1.5,width=540,height=960};FBLC/en_GB;FBCR/Tesco Mobile;FBMF/TCL;FBBD/TCL;FBPN/com.facebook.katana;FBDV/6016X;FBSV/4.3;nullFBCA/armeabi-v7a:armeabi;]
 [FBAN/FB4A;FBAV/77.0.0.20.66;FBBV/30034615;FBDM/{density=1.5,width=480,height=800};FBLC/en_GB;FBCR/MTML;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-J110H;FBSV/4.4.4;FBOP/1;FBCA/armeabi-v7a:armeabi;]
 [FBAN/FB4A;FBAV/271.0.0.55.109;FBBV/215365690;FBDM/{density=2.0,width=720,height=1404};FBLC/en_US;FBRV/216513200;FBCR/Telia;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.katana;FBDV/vivo 1906;FBSV/9;FBOP/1;FBCA/arm64-v8a:;]
 7.2
