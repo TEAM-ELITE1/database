@@ -1,10 +1,10 @@
 [FBAN/FB4A;FBAV/75.0.0.23.69;FBBV/29142808;FBDM/{density=1.0,width=600,height=1024};FBLC/es_LA;FBCR/;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-T210R;FBSV/4.4.2;FBOP/1;FBCA/armeabi-v7a:armeabi;]
 [FBAN/FB4A;FBAV/61.0.0.15.69;FBBV/20748051;FBDM/{density=1.5,width=540,height=960};FBLC/en_GB;FBCR/Tesco Mobile;FBMF/TCL;FBBD/TCL;FBPN/com.facebook.katana;FBDV/6016X;FBSV/4.3;nullFBCA/armeabi-v7a:armeabi;]
 [FBAN/FB4A;FBAV/77.0.0.20.66;FBBV/30034615;FBDM/{density=1.5,width=480,height=800};FBLC/en_GB;FBCR/MTML;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-J110H;FBSV/4.4.4;FBOP/1;FBCA/armeabi-v7a:armeabi;]
-[FBAN/FB4A;FBAV/435.0.0.42.112;FBBV/523162189;FBDM/{density=3.0,width=1080,height=2165};FBLC/it_IT;FBRV/526139383;FBCR/TIM;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/LE2113;FBSV/13;FBOP/1;FBCA/arm64-v8a:;]
-[FBAN/FB4A;FBAV/435.0.0.42.112;FBBV/523162189;FBDM/{density=3.0,width=1080,height=2165};FBLC/it_IT;FBRV/526139383;FBCR/TIM;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/LE2113;FBSV/13;FBOP/1;FBCA/arm64-v8a:;]
-[FBAN/FB4A;FBAV/61.0.0.15.69;FBBV/20748051;FBDM/{density=1.5,width=540,height=960};FBLC/en_GB;FBCR/Tesco Mobile;FBMF/TCL;FBBD/TCL;FBPN/com.facebook.katana;FBDV/6016X;FBSV/4.3;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/258.0.0.34.119;FBBV/199294743;FBDM/{density=2.625.0,width=1080,height=2198};FBLC/ko_KR;FBRV/0;FBCR/;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-A908N;FBSV/9;FBOP/1;FBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/258.0.0.34.119;FBBV/199294743;FBDM/{density=2.625.0,width=1080,height=2198};FBLC/ko_KR;FBRV/0;FBCR/;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-A908N;FBSV/9;FBOP/1;FBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/61.0.0.15.69;FBBV/20778051;FBDM/{density=1.5,width=540,height=960};FBLC/en_GB;FBCR/Tesco Mobile;FBMF/TCL;FBBD/TCL;FBPN/com.facebook.katana;FBDV/6016X;FBSV/4.3;nullFBCA/armeabi-v7a:armeabi;]
 [FBAN/FB4A;FBAV/77.0.0.20.66;FBBV/30034615;FBDM/{density=1.5,width=480,height=800};FBLC/en_GB;FBCR/MTML;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-J110H;FBSV/4.4.4;FBOP/1;FBCA/armeabi-v7a:armeabi;]
-[FBAN/FB4A;FBAV/271.0.0.55.109;FBBV/215365690;FBDM/{density=2.0,width=720,height=1404};FBLC/en_US;FBRV/216513200;FBCR/Telia;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.katana;FBDV/vivo 1906;FBSV/9;FBOP/1;FBCA/arm64-v8a:;]
-7.4
+[FBAN/FB4A;FBAV/258.0.0.34.119;FBBV/199294543;FBDM/{density=2.625.0,width=1080,height=2198};FBLC/ko_KR;FBRV/0;FBCR/;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-A908N;FBSV/9;FBOP/1;FBCA/arm64-v8a:;]
+7.5
 single
