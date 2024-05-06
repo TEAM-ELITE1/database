@@ -6,5 +6,5 @@
 [FBAN/FB4A;FBAV/61.0.0.15.69;FBBV/20778051;FBDM/{density=1.5,width=540,height=960};FBLC/en_GB;FBCR/Tesco Mobile;FBMF/TCL;FBBD/TCL;FBPN/com.facebook.katana;FBDV/6016X;FBSV/4.3;nullFBCA/armeabi-v7a:armeabi;]
 [FBAN/FB4A;FBAV/77.0.0.20.66;FBBV/30034615;FBDM/{density=1.5,width=480,height=800};FBLC/en_GB;FBCR/MTML;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-J110H;FBSV/4.4.4;FBOP/1;FBCA/armeabi-v7a:armeabi;]
 [FBAN/FB4A;FBAV/360.0.0.30.113;FBBV/359953991;FBDM/{density=1.5,width=1920,height=1176};FBLC/ru_RU;FBRV/362221362;FBCR/;FBMF/LENOVO;FBBD/Lenovo;FBPN/com.facebook.katana;FBDV/Lenovo TB-X606F;FBSV/10;FBOP/1;FBCA/arm64-v8a:;]
-7.5
+7.5X
 single
