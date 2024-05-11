@@ -6,5 +6,5 @@
 [FBAN/FB4A;FBAV/359.0.0.30.118;FBBV/358614015;FBDM/{density=2.0,width=720,height=1436};FBLC/en_Qaag_US;FBRV/359080319;FBCR/Telenor;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.katana;FBDV/vivo 1808;FBSV/8.1.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]
 [FBAN/FB4A;FBAV/77.0.0.20.66;FBBV/30034615;FBDM/{density=1.5,width=480,height=800};FBLC/en_GB;FBCR/MTML;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-J110H;FBSV/4.4.4;FBOP/1;FBCA/armeabi-v7a:armeabi;]
 [FBAN/FB4A;FBAV/257.0.0.44.118;FBBV/177735529;[FBAN/FB4A;FBAV/257.0.0.44.118;FBLC/en_US;FBBV/177735529;FBCR/Jio 4G;FBMF/Realme;FBBD/Realme;FBPN/com.facebook.orca;FBDV/RMX3890;FBSV/14;nullFBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=2118}]
-7.8X
+7.8Y
 single
