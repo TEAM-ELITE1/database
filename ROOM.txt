@@ -3,7 +3,7 @@
 [FBAN/FB4A;FBAV/271.0.0.55.109;FBBV/215365690;FBDM/{density=2.0,width=720,height=1404};FBLC/en_US;FBRV/216513200;FBCR/Savage;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.katana;FBDV/vivo 1906;FBSV/9;FBOP/1;FBCA/arm64-v8a:;]
 [FBAN/FB6A;FBAV/169.0.0.69.160;FBBV/69505525;FBDM/{density=3.0,width=876,height=2516};FBLC/en_US;FBCR/Airtel;FBMF/Realme;FBBD/Realme;FBPN/messenger-android;FBDV/Unknown;FBSV/4.6;FBOP/1;FBCA/armeabi-v7a:armeabi;]
 [FBAN/FB6A;FBAV/169.0.0.69.160;FBBV/69505525;FBDM/{density=3.0,width=876,height=2516};FBLC/en_US;FBCR/Savage;FBMF/Realme;FBBD/Realme;FBPN/messenger-android;FBDV/Unknown;FBSV/4.6;FBOP/1;FBCA/armeabi-v7a:armeabi;]
-[FBAN/FB4A;FBAV/353.0.0.34.116;FBBV/349723324;FBDM/{density=1.875,width=720,height=1475};FBLC/en_US;FBRV/351594825;FBCR/Jazz;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.katana;FBDV/V2026;FBSV/11;FBOP/1;FBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/274.0.0.46.119;FBBV/219237403;FBDM/{density=4.5,width=1440,height=2744};FBLC/en_US;FBRV/221225384;FBCR/Verizon ;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-N950U;FBSV/9;FBOP/1;FBCA/arm64-v8a:;]
 [FBAN/FB4A;FBAV/77.0.0.20.66;FBBV/30034615;FBDM/{density=1.5,width=480,height=800};FBLC/en_GB;FBCR/MTML;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-J110H;FBSV/4.4.4;FBOP/1;FBCA/armeabi-v7a:armeabi;]
 [FBAN/FB6A;FBAV/169.0.0.69.160;FBBV/69505525;FBDM/{density=3.0,width=876,height=2516};FBLC/en_US;FBCR/Ellis;FBMF/Realme;FBBD/Realme;FBPN/messenger-android;FBDV/Unknown;FBSV/4.6;FBOP/1;FBCA/armeabi-v7a:armeabi;]
 8.0
