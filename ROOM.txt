@@ -1,4 +1,4 @@
-[FBAN/FB6A;FBAV/169.0.0.69.160;FBBV/69505525;FBDM/{density=3.0,width=876,height=2516};FBLC/en_US;FBCR/Savage;FBMF/Realme;FBBD/Realme;FBPN/messenger-android;FBDV/Unknown;FBSV/4.6;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB5A;FBAV/254.0.0.28.54;FBBV/58796998;FBDM/{density=2.75,width=757,height=1195};FBLC/ex_MX;FBCR/Airtel;FBMF/Realme;FBBD/Realme;FBPN/com.facebook.orca;FBDV/Unknown;FBSV/8.8;FBOP/1;FBCA/armeabi-v7a:armeabi;]
 [FBAN/FB4A;FBAV/257.0.0.44.118;FBBV/177735529;[FBAN/FB4A;FBAV/257.0.0.44.118;FBLC/en_US;FBBV/177735529;FBCR/Jio 4G;FBMF/Realme;FBBD/Realme;FBPN/com.facebook.orca;FBDV/RMX3890;FBSV/14;nullFBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=2118}]
 [FBAN/FB4A;FBAV/354.0.0.22.110;FBBV/350972603;FBDM/{density=2.0,width=720,height=1419};FBLC/en_US;FBRV/352596405;FBCR/CC Network;FBMF/motorola;FBBD/motorola;FBPN/com.facebook.katana;FBDV/moto g(7) power;FBSV/10;FBOP/1;FBCA/arm64-v8a:;]
 [FBAN/FB6A;FBAV/169.0.0.69.160;FBBV/69505525;FBDM/{density=3.0,width=876,height=2516};FBLC/en_US;FBCR/Airtel;FBMF/Realme;FBBD/Realme;FBPN/messenger-android;FBDV/Unknown;FBSV/4.6;FBOP/1;FBCA/armeabi-v7a:armeabi;]
