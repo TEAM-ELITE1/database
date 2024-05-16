@@ -1,3 +1,2 @@
 clear
-rm -rf new_64.py
-echo \' I am your Dad\'
+
