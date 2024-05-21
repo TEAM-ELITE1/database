@@ -6,7 +6,7 @@
 [FBAN/FB4A;FBAV/352.0.0.21.117;FBBV/348184967;FBDM/{density=2.625,width=1080,height=2181};FBLC/uk_UA;FBRV/349092919;FBCR/;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-A750FN;FBSV/10;FBOP/19;FBCA/arm64-v8a:;]
 [FBAN/FB4A;FBAV/352.0.0.21.117;FBBV/348184967;FBDM/{density=2.625,width=1080,height=2181};FBLC/uk_UA;FBRV/349092919;FBCR/;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-A750FN;FBSV/10;FBOP/19;FBCA/arm64-v8a:;]
 [FBAN/FB4A;FBAV/359.0.0.30.118;FBBV/358614015;FBDM/{density=2.0,width=720,height=1436};FBLC/en_Qaag_US;FBRV/359080319;FBCR/Telenor;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.katana;FBDV/vivo 1808;FBSV/8.1.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]
-8.8
+8.9
 464.0.0.60.90
 451816844
 single
