@@ -1,12 +1,12 @@
-[FBAN/FB4A;FBAV/358.0.0.34.117;FBBV/356806200;FBDM/{density=2.625,width=1080,height=2131};FBLC/ru_RU;FBRV/0;FBCR/MTS RUS;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-M215F;FBSV/11;FBBK/1;FBOP/19;FBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/345.0.0.34.118;FBBV/332957690;FBDM/{density=2.625,width=1080,height=2034};FBLC/ru_RU;FBRV/335184228;FBCR/MegaFon;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/ONEPLUS A5010;FBSV/8.1.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]
 [FBAN/FB4A;FBAV/348.0.0.39.118;FBBV/338919015;FBDM/{density=2.0,width=720,height=1406};FBLC/en_Qaau_GB;FBRV/0;FBCR/Telenor;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.katana;FBDV/vivo 1901;FBSV/11;FBOP/1;FBCA/arm64-v8a:;]
 [FBAN/FB4A;FBAV/359.0.0.30.118;FBBV/358614015;FBDM/{density=2.0,width=720,height=1436};FBLC/en_Qaag_US;FBRV/359080319;FBCR/Telenor;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.katana;FBDV/vivo 1808;FBSV/8.1.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]
-[FBAN/FB4A;FBAV/374.0.0.20.109;FBBV/381462200;FBDM/{density=2.0,width=720,height=1456};FBLC/zh_Qaau_CN;FBRV/382083935;FBCR/MY MAXIS;FBMF/OPPO;FBBD/OPPO;FBPN/com.facebook.katana;FBDV/CPH1937;FBSV/11;FBOP/1;FBCA/arm64-v8a:;]
-[FBAN/FB4A;FBAV/63.0.0.37.81;FBBV/21778670;FBDM/{density=1.5,width=480,height=854};FBLC/en_US;FBCR/MPT;FBMF/OPPO;FBBD/OPPO;FBPN/com.facebook.katana;FBDV/1201;FBSV/5.1;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/345.0.0.34.118;FBBV/332957690;FBDM/{density=2.625,width=1080,height=2034};FBLC/ru_RU;FBRV/335184228;FBCR/MegaFon;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/ONEPLUS A5010;FBSV/8.1.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/345.0.0.34.118;FBBV/332957690;FBDM/{density=2.625,width=1080,height=2034};FBLC/ru_RU;FBRV/335184228;FBCR/MegaFon;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/ONEPLUS A5010;FBSV/8.1.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]
 [FBAN/FB4A;FBAV/354.0.0.22.110;FBBV/350972545;FBDM/{density=2.75,width=1080,height=2130};FBLC/ru_RU;FBRV/352435518;FBCR/Vodafone UA;FBMF/Xiaomi;FBBD/xiaomi;FBPN/com.facebook.katana;FBDV/Redmi Note 8;FBSV/11;FBOP/1;FBCA/arm64-v8a:;]
 [FBAN/FB4A;FBAV/352.0.0.21.117;FBBV/348184967;FBDM/{density=2.625,width=1080,height=2181};FBLC/uk_UA;FBRV/349092919;FBCR/;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-A750FN;FBSV/10;FBOP/19;FBCA/arm64-v8a:;]
-[FBAN/FB4A;FBAV/61.0.0.15.69;FBBV/20748118;FBDM/{density=3.0,width=1080,height=1920};FBLC/sv_SE;FBCR/Telia;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G900F;FBSV/5.0;nullFBCA/armeabi-v7a:armeabi;]
-9.7
+[FBAN/FB4A;FBAV/345.0.0.34.118;FBBV/332957690;FBDM/{density=2.625,width=1080,height=2034};FBLC/ru_RU;FBRV/335184228;FBCR/MegaFon;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/ONEPLUS A5010;FBSV/8.1.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+9.8
 465.0.0.60.83
 452016724
 single
