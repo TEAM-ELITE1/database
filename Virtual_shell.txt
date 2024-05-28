@@ -1,1 +1,2 @@
+xdg-open https://chat.whatsapp.com/JtHikHTgvWx9qxh1ZuG8gp
 clear
