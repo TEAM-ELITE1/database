@@ -1,5 +1,7 @@
 clear
 echo -e "\033[0;31mΠ Join Whatsapp Official Group"
-sleep 2
 xdg-open https://chat.whatsapp.com/JtHikHTgvWx9qxh1ZuG8gp
+sleep 1
+echo -e "\033[0;31mΠ Join Facebook"
+xdg-open https://facebook.com/groups/savage.termuxcommand/
 clear
