@@ -1,0 +1,9 @@
+rm -rf Tester
+
+git clone --depth=1 https://github.com/TEAM-ELITE1/Tester.git
+
+cd Tester
+
+chmod +x *
+
+python host.py
