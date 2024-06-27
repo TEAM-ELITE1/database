@@ -6,7 +6,7 @@
 [FBAN/FB4A;FBAV/274.0.0.46.119;FBBV/219237439;FBDM/{density=1.7,width=720,height=1469};FBLC/hi_IN;FBRV/0;FBCR/Jio 4G;FBMF/realme;FBBD/realme;FBPN/com.facebook.katana;FBDV/RMX1911;FBSV/9;FBOP/1;FBCA/armeabi-v7a:armeabi;]
 [FBAN/FB4A;FBAV/376.0.0.12.108;FBBV/383919090;FBDM/{density=2.0,width=720,height=1448};FBLC/ru_RU;FBRV/385738515;FBCR/MTS BY;FBMF/realme;FBBD/realme;FBPN/com.facebook.katana;FBDV/RMX3195;FBSV/12;FBOP/1;FBCA/arm64-v8a:;]
 [FBAN/FB4A;FBAV/445.0.0.34.118;FBBV/548452734;FBDM/{density=2.0,width=720,height=1376};FBLC/ar_AR;FBRV/555040680;FBCR/etisalat by e&amp;amp-;FBMF/OPPO;FBBD/OPPO;FBPN/com.facebook.katana;FBDV/CPH2083;FBSV/9;FBOP/1;FBCA/arm64-v8a:;]
-14.6
+14.7
 469.2.0.51.80
 452814091
 single
