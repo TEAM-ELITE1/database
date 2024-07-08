@@ -1,20 +1,26 @@
-first last
-firstlast
-firstlast123
-firstlast1234
-firstlast@123
+first1
+first12
 first123
 first1234
 first12345
-last123
-last1234
-last12345
+first123456
+@first123
+@first@
+first@1
+first@12
 first@123
 first@1234
-last@123
-last@1234
-@first123
-maya123
+first@12345
+first last
+First Last
+firstlast123
+firstlast1234
+firstlast12345
+firstlast@123
+firstlast@1234
+last123
+last1234
 nepal123
+maya123
+kathmandu
 @123456
-203040
