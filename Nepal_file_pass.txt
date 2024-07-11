@@ -19,6 +19,8 @@ firstlast@123
 firstlast@1234
 first@
 first@@
+first@#
+first@@##
 first@@@
 @123456
 nepal123
