@@ -2,6 +2,8 @@ first12
 first123
 first1234
 first12345
+first@
+first@#
 first@123
 first@1234
 firstlast123
@@ -15,3 +17,4 @@ free fire
 grandmaster
 rank123
 fflover
+first@12345
