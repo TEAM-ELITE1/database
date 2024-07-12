@@ -7,7 +7,6 @@ first@1234
 first@12345
 @first123
 @first@
-@@first@@
 last123
 last1234
 last12345
@@ -25,3 +24,4 @@ first@@@
 @123456
 nepal123
 First123
+First1234
