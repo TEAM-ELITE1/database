@@ -6,15 +6,20 @@ first@
 first@#
 first@123
 first@1234
+first@12345
 firstlast123
 firstlast1234
 firstlast
 first last
 First Last
-freefire
-freefire123
-free fire
-grandmaster
-rank123
-fflover
 first@12345
+freefire
+last123
+mdfirst123
+First123
+203040
+506070
+708090
+@1234@
+@123456
+@12345@
