@@ -2,24 +2,19 @@ first12
 first123
 first1234
 first12345
-first@
-first@#
+first@12
 first@123
 first@1234
 first@12345
-firstlast123
-firstlast1234
 firstlast
-first last
-First Last
-first@12345
-freefire
-last123
-mdfirst123
-First123
-203040
-506070
-708090
-@first@
-@first123
+firstlast12
+firstlast123
 firstlast@123
+first last
+last123
+@first123
+first@
+first@@
+First123
+@first@
+first@#
