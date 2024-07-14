@@ -5,7 +5,9 @@ first12345
 first@12
 first@123
 first@1234
+first@12345
 firstlast
+firstlast12
 firstlast123
 firstlast@123
 first last
@@ -13,3 +15,6 @@ last123
 @first123
 first@
 first@@
+First123
+@first@
+first@#
