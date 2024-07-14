@@ -6,18 +6,15 @@ first@12
 first@123
 first@1234
 first@12345
-first123456789
-First123
-First1234
-First12345
 firstlast
-first last 
+firstlast12
 firstlast123
 firstlast@123
-firstlast1234
-First Last
-nepal123
-kathmandu
-maya123
-kathmandu12
+first last
 last123
+@first123
+first@
+first@@
+First123
+@first@
+first@#
