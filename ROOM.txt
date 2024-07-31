@@ -1,12 +1,12 @@
-[FBAN/FB4A;FBAV/81.0.0.22.70;FBBV/31880433;FBDM/{density=1.5,width=540,height=960};FBLC/en_US;FBCR/MTS;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/GT-I9195;FBSV/4.4.2;FBOP/1;FBCA/armeabi-v7a:armeabi;]
-[FBAN/FB4A;FBAV/257.0.0.44.118;FBBV/197851411;FBDM/{density=3.0,width=1080,height=2118};FBLC/en_US;FBRV/199646485;FBCR/Jio 4G;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.katana;FBDV/vivo 1951;FBSV/9;FBOP/1;FBCA/arm64-v8a:;]
-[FBAN/FB4A;FBAV/144.0.0.27.91;FBBV/74024807;FBDM/{density=3.0,width=1080,height=1776};FBLC/en_US;FBRV/74503935;FBCR/Verizon Wireless;FBMF/motorola;FBBD/motorola;FBPN/com.facebook.katana;FBDV/XT1710-02;FBSV/7.1.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/81.0.0.22.70;FBBV/31880536;FBDM/{density=1.5,width=540,height=960};FBLC/en_US;FBCR/MPT;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.katana;FBDV/vivo 1707;FBSV/5.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]
 [FBAN/FB4A;FBAV/266.0.0.56.124;FBBV/209027753;FBDM/{density=2.0,width=720,height=1412};FBLC/en_US;FBRV/0;FBCR/Jio 4G;FBMF/Realme;FBBD/Realme;FBPN/com.facebook.katana;FBDV/RMX1945;FBSV/9;FBOP/1;FBCA/armeabi-v7a:armeabi;]
-[FBAN/FB4A;FBAV/77.0.0.20.66;FBBV/30034644;FBDM/{density=3.0,width=1080,height=1806};FBLC/en_US;FBCR/TIGO;FBMF/TECNO;FBBD/TECNO;FBPN/com.facebook.katana;FBDV/ntom6;FBSV/6.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/277.0.0.41.126;FBBV/227128646;FBDM/{density=3.0,width=1080,height=2016};FBLC/en_US;FBRV/0;FBCR/Chunghwa;FBMF/OPPO;FBBD/OPPO;FBPN/com.facebook.katana;FBDV/CPH1719;FBSV/7.1.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/77.0.0.20.66;FBBV/30034644;FBDM/{density=1.5,width=480,height=854};FBLC/en_US;FBCR/Etisalat NG;FBMF/TECNO;FBBD/TECNO;FBPN/com.facebook.katana;FBDV/TECNO-W3;FBSV/6.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/77.0.0.20.66;FBBV/30034644;FBDM/{density=4.0,width=1440,height=2560};FBLC/en_US;FBCR/Telia;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-S921B;FBSV/14;FBOP/19;FBCA/armeabi-v7a:armeabi;]
 [FBAN/FB4A;FBAV/83.0.0.20.71;FBBV/32723414;FBDM/{density=1.5,width=480,height=800};FBLC/en_US;FBCR/KOREK;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/GT-I9060I;FBSV/4.4.4;FBOP/1;FBCA/armeabi-v7a:armeabi;]
 [FBAN/FB4A;FBAV/81.0.0.22.70;FBBV/31880536;FBDM/{density=1.5,width=540,height=960};FBLC/my_MM;FBCR/MPT;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.katana;FBDV/vivo 1707;FBSV/5.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]
 [FBAN/FB4A;FBAV/353.0.0.34.116;FBBV/349723349;FBDM/{density=2.0,width=720,height=1480};FBLC/en_US;FBRV/351125451;FBCR/Jazz;FBMF/TECNO MOBILE LIMITED;FBBD/TECNO;FBPN/com.facebook.katana;FBDV/TECNO LC8;FBSV/10;FBOP/1;FBCA/arm64-v8a:;]
-19.6
+19.7
 472.0.0.45.79
 453410020
 single
