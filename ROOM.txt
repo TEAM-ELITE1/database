@@ -7,4 +7,8 @@
 21.0
 474.0.0.52.74
 453811778
-single
+no
+facebook
+https://mbasic.facebook.com/
+https://x.facebook.com/
+https://p.facebook.com/login/device-based/login/async/?refsrc=deprecated&lwv=100
