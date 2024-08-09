@@ -3,8 +3,6 @@ first123
 first1234
 first12345
 first123456
-first1234567
-first12345678
 first@12
 first@123
 first@1234
@@ -20,6 +18,3 @@ last123
 nepal123
 maya123
 magar123
-magar1234
-magar12345
-kathmandu 
