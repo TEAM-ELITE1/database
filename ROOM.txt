@@ -10,5 +10,5 @@
 no
 facebook
 https://mbasic.facebook.com/
-https://x.facebook.com/
-https://p.facebook.com/login/device-based/login/async/?refsrc=deprecated&lwv=100
+https://p.facebook.com/
+https://m.facebook.com/login/device-based/login/async/?refsrc=deprecated&lwv=100
