@@ -2,19 +2,24 @@ first12
 first123
 first1234
 first12345
+first123456
+first1234567
+first12345678
 first@12
 first@123
 first@1234
 first@12345
+first@123456
 firstlast
+first last
 firstlast12
 firstlast123
+firstlast1234
 firstlast@123
-first last
 last123
-@first123
-first@
-first@@
-First123
-@first@
-first@#
+nepal123
+maya123
+magar123
+magar1234
+magar12345
+kathmandu 
