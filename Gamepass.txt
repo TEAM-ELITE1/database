@@ -1,20 +1,15 @@
+firstlast
+first last
 first12
 first123
 first1234
-first12345
 first@12
 first@123
 first@1234
-first@12345
-firstlast
-firstlast12
 firstlast123
+firstlast1234
 firstlast@123
-first last
-last123
-@first123
+firstlast@1234
 first@
 first@@
-First123
-@first@
 first@#
