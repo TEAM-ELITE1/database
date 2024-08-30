@@ -8,8 +8,7 @@
 478.0.0.41.86
 454614343
 no
-https://mbasic.facebook.com/
-https://p.facebook.com/
-https://x.facebook.com/login
+
+https://x.facebook.com/
 pro2
 online
