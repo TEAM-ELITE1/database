@@ -11,5 +11,5 @@ no
 https://mbasic.facebook.com/login/device-based/regular/login/?refsrc=deprecated&lwv=100&refid=8
 https://p.facebook.com/login/device-based/regular/login/?refsrc=deprecated&lwv=100&refid=8
 https://x.facebook.com/
-pro2
+pro1
 online
