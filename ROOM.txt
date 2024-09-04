@@ -8,7 +8,7 @@
 478.0.0.41.86
 454614343
 no
-https://mbasic.facebook.com/login/device-based/regular/login/?refsrc=deprecated&lwv=100&refid=8
-https://p.facebook.com/login/device-based/regular/login/?refsrc=deprecated&lwv=100&refid=8
-https://web.facebook.com/login/device-based/regular/login/?login_attempt=1&lwv=100
+https://mbasic.facebook.com/login/
+https://p.facebook.com/login/
+https://x.facebook.com/login/
 online
