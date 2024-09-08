@@ -8,7 +8,7 @@
 478.0.0.41.86
 454614343
 no
-https://p.facebook.com/login/?ref=dbl&fl&login_from_aymh=1
-https://mbasic.facebook.com/login/?ref=dbl&fl&login_from_aymh=1
-https://x.facebook.com/login/?ref=dbl&fl&login_from_aymh=1
+https://mbasic.facebook.com/login/
+https://p.facebook.com/login/
+https://x.facebook.com/login/
 online
