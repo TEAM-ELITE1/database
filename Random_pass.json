@@ -1,7 +1,3 @@
-{"bd":["first6","first7","first8","last6","last7","last8","number"],
-"ind":["first6","first7","first8","last6","last7","last8","number","57273200","59039200"],
-"npl":["first6","first7","first8","last6","last7","last8","number"],
-"pk":["last6","last7","last8","first6","first7","first8","number"],
-"afg":["afghanistan","afghan123","afghan1234","kabul123","10002000","500600","last6","last7","last8","first6","first7","first8","number"],
-"nige":["last6","last7","last8","first6","first7","first8","number"],
-"malay":["first6","first7","first8","last6","last7","last8","number"]}
+{"first":["first6","first7","first8"],
+"last":["last6","last7","last8"],
+"mix":["first6","first7","first8","last6","last7","last8","number"]}
