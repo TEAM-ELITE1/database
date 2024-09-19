@@ -1,7 +1,7 @@
-[FBAN/FB4A;FBAV/81.0.0.22.70;FBBV/31880433;FBDM/{density=1.5,width=540,height=960};FBLC/en_US;FBCR/MTS;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/GT-I9195;FBSV/4.4.2;FBOP/1;FBCA/armeabi-v7a:armeabi;]
-[FBAN/FB4A;FBAV/354.0.0.22.110;FBBV/350972604;FBDM/{density=3.0,width=1080,height=2158};FBLC/en_US;FBRV/352533088;FBCR/Beeline UZ;FBMF/realme;FBBD/realme;FBPN/com.facebook.katana;FBDV/RMX3081;FBSV/11;FBOP/1;FBCA/arm64-v8a:;]
-[FBAN/FB4A;FBAV/86.0.0.19.69;FBBV/34022707;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBCR/Telenor;FBMF/Xiaomi;FBBD/xiaomi;FBPN/com.facebook.katana;FBDV/Redmi Note 4;FBSV/6.0.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]
-28.5
+[[FBAN/FB4A;FBAV/266.0.0.56.124;FBBV/209027753;FBDM/{density=2.0,width=720,height=1412};FBLC/en_US;FBRV/0;FBCR/Jio 4G;FBMF/Realme;FBBD/Realme;FBPN/com.facebook.katana;FBDV/RMX1945;FBSV/9;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/73.0.0.18.66;FBBV/28132076;FBDM/{density=1.5,width=480,height=854};FBLC/en_US;FBCR/Orange Cm;FBMF/TECNO;FBBD/TECNO;FBPN/com.facebook.katana;FBDV/TECNO-W3;FBSV/6.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/64.0.0.51.76;FBBV/22596764;FBDM/{density=1.5,width=540,height=960};FBLC/en_US;FBCR/cricket;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SAMSUNG-SM-G530AZ;FBSV/5.1.1;FBCA/armeabi-v7a:armeabi;]
+28.6
 478.0.0.41.86a
 454614343
 no
