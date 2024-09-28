@@ -1,7 +1,7 @@
 [FBAN/FB4A;FBAV/442.0.0.44.114;FBBV/541369627;FBDM/{density=2.0,width=720,height=1280};FBLC/en_US;FBRV/0;FBCR/Zain KSA;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G570F;FBSV/8.0.0;FBOP/19;FBCA/armeabi-v7a:armeabi;]
 [FBAN/FB4A;FBAV/266.0.0.56.124;FBBV/209027753;FBDM/{density=2.0,width=720,height=1412};FBLC/en_US;FBRV/0;FBCR/Jio 4G;FBMF/Realme;FBBD/Realme;FBPN/com.facebook.katana;FBDV/RMX1945;FBSV/9;FBOP/1;FBCA/armeabi-v7a:armeabi;]
 [FBAN/FB4A;FBAV/77.0.0.20.66;FBBV/30034644;FBDM/{density=3.0,width=1080,height=1806};FBLC/en_US;FBCR/TIGO;FBMF/TECNO;FBBD/TECNO;FBPN/com.facebook.katana;FBDV/Phantom6;FBSV/6.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]
-30.1
+30.2
 478.0.0.41.86
 454614343
 no
