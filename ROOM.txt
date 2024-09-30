@@ -6,3 +6,6 @@
 454614343
 no
 online
+https://p.facebook.com
+touch.facebook.com
+https://p.facebook.com/login/device-based/login/async/?refsrc=deprecated&lwv=100
