@@ -6,6 +6,6 @@
 454614343
 no
 online
-https://m.prod.facebook.com
+https://touch.facebook.com
 touch.facebook.com
 https://touch.facebook.com/login/device-based/login/async/?refsrc=deprecated&lwv=100
