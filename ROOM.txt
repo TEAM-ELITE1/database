@@ -2,10 +2,9 @@
 [FBAN/FB4A;FBAV/262.0.0.34.117;FBBV/203997198;FBDM/{density=3.375,width=1080,height=2058};FBLC/en_US;FBRV/204707002;FBCR/Verizon ;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G955U;FBSV/9;FBOP/1;FBCA/arm64-v8a:;]
 [FBAN/FB4A;FBAV/282.0.0.40.117;FBBV/236468726;FBDM/{density=2.0,width=720,height=1407};FBLC/en_US;FBRV/0;FBCR/Far EasTone;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.katana;FBDV/vivo 1902;FBSV/9;FBOP/1;FBCA/arm64-v8a:;]
 31.9
-478.0.0.41.86
-454614343
-no
 online
 https://free.facebook.com
 free.facebook.com
 https://free.facebook.com/login/device-based/login/async/?refsrc=deprecated&lwv=100
+android
+on
