@@ -4,7 +4,7 @@
 32.2
 online
 https://touch.facebook.com
-mbasic.facebook.com
+touch.facebook.com
 https://touch.facebook.com/login/device-based/login/async/?refsrc=deprecated&lwv=100
 android
 on
