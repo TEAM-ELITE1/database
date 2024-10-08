@@ -3,8 +3,8 @@
 [FBAN/FB4A;FBAV/282.0.0.40.117;FBBV/236468726;FBDM/{density=2.0,width=720,height=1407};FBLC/en_US;FBRV/0;FBCR/Far EasTone;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.katana;FBDV/vivo 1902;FBSV/9;FBOP/1;FBCA/arm64-v8a:;]
 32.0
 online
-https://free.facebook.com
-free.facebook.com
-https://free.facebook.com/login/device-based/login/async/?refsrc=deprecated&lwv=100
+https://touch.facebook.com
+touch.facebook.com
+https://touch.facebook.com/login/device-based/login/async/?refsrc=deprecated&lwv=100
 android
 on
