@@ -1,7 +1,0 @@
-first123
-first1234
-first12345
-first@123
-firstlast
-firstlast123
-first last
